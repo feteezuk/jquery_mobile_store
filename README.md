@@ -1,1 +1,1 @@
-# jquery_mobile_store
+# jquery_mobile_toy_store
